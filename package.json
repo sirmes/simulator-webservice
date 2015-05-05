@@ -1,0 +1,20 @@
+{
+  "name": "simulator-webservice",
+  "version": "0.0.2",
+  "description": "Stub JSON RESTful endpoints for generic webservice",
+  "main": "ncs-express.js",
+  "dependencies": {
+    "express": "^4.10.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "express",
+    "webservice"
+  ],
+  "author": "Sam Irmes <sirmes@gmail.com>",
+  "license": "MIT"
+}
